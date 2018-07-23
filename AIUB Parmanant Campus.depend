@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1532350852 source:e:\education\aiub\projects\graphics\aiub parmanant campus\main.cpp
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<time.h>
+	<iostream>
+	<windows.h>
+
+1532350889 source:e:\education\aiub\projects\graphics\aiub parmanant campus\arnob\main.cpp
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<time.h>
+	<iostream>
+	<windows.h>
+
