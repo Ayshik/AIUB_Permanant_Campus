@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1532610161 source:e:\education\aiub\projects\graphics\aiub permanent campus\arnob\main.cpp
+	<stdio.h>
+	<windows.h>
+	<math.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/gl.h>
+	<time.h>
+	<iostream>
+	<windows.h>
+
